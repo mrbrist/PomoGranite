@@ -1,0 +1,17 @@
+{
+  "name": "pomogranite",
+  "version": "0.0.1",
+  "description": "A Pomodoro timer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "pomodoro"
+  ],
+  "author": "Brist (brist@mrbrist.com)",
+  "license": "MIT",
+  "scripts": {
+      "start": "electron ."
+    }
+}

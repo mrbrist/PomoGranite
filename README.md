@@ -1,1 +1,3 @@
-PomoGranite
+# PomoGranite
+
+## A simple Pomodoro timer
